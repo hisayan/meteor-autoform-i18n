@@ -1,5 +1,5 @@
 Package.describe({
-  name: "gwendall:autoform-i18n",
+  name: "hisayan:autoform-react-intl-mui",
   summary: "Internationalization for Autoform",
   version: "0.1.9_1",
   git: "https://github.com/gwendall/meteor-autoform-i18n.git"
